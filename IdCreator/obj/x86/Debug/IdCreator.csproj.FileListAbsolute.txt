@@ -1,0 +1,10 @@
+D:\back\git\git\IdCreator\IdCreator\bin\Debug\IdCreator.exe.config
+D:\back\git\git\IdCreator\IdCreator\bin\Debug\IdCreator.exe
+D:\back\git\git\IdCreator\IdCreator\bin\Debug\IdCreator.pdb
+D:\back\git\git\IdCreator\IdCreator\obj\x86\Debug\WindowsFormsApplication1.F_check.resources
+D:\back\git\git\IdCreator\IdCreator\obj\x86\Debug\WindowsFormsApplication1.F_main.resources
+D:\back\git\git\IdCreator\IdCreator\obj\x86\Debug\WindowsFormsApplication1.F_Sign.resources
+D:\back\git\git\IdCreator\IdCreator\obj\x86\Debug\IdCreator.Properties.Resources.resources
+D:\back\git\git\IdCreator\IdCreator\obj\x86\Debug\IdCreator.csproj.GenerateResource.Cache
+D:\back\git\git\IdCreator\IdCreator\obj\x86\Debug\IdCreator.exe
+D:\back\git\git\IdCreator\IdCreator\obj\x86\Debug\IdCreator.pdb
