@@ -1,14 +1,33 @@
-IdCreator
-=========
+IDCreator
 
-A app to create ID card number.
+===========
 
-ÉÏ´«Ê±¼ä:2014-5-19<br/>
-<br/>
-´´½¨Ê±¼ä:2013-04<br/>
-¹¦ÄÜ:<br/>
-1.Éí·İÖ¤ºÅÂëÉú³É,²éÑ¯;<br/>
-2.µ¼³ö<br/>
-ÒÑÖªbug:<br/>
-1.¸Û°Ä²»ÄÜÉú³É;<br/>
-2.ÆäËüÊÖ¼úµÄbug,ÀÁµÃÅªÁË;<br/>
+###### A app to create ID Card Number.
+
+===
+
+æ›´æ–°æ—¶é—´ï¼š2017-04-22
+
+===
+
+åˆ›å»ºæ—¶é—´:2013-04
+
+æ›´æ–°æ—¶é—´:2014-5-19
+
+å¢åŠ :
+
+1.èº«ä»½è¯å·ç ç”Ÿæˆ,æŸ¥è¯¢;
+
+2.å¯¼å‡º
+
+å·²çŸ¥bug:
+
+1.æ¸¯æ¾³ä¸èƒ½ç”Ÿæˆ;
+
+2.å…¶å®ƒæ‰‹è´±çš„bug,æ‡’å¾—å¼„äº†;
+
+### License
+
+Code in the IDCreator project is licensed under the GPL.
+
+Build by Visual Studio Community 2015

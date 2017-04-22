@@ -50,7 +50,7 @@
             // 
             // btnGet
             // 
-            this.btnGet.Location = new System.Drawing.Point(193, 74);
+            this.btnGet.Location = new System.Drawing.Point(193, 81);
             this.btnGet.Name = "btnGet";
             this.btnGet.Size = new System.Drawing.Size(75, 23);
             this.btnGet.TabIndex = 1;
@@ -60,7 +60,7 @@
             // 
             // btnCheck
             // 
-            this.btnCheck.Location = new System.Drawing.Point(193, 161);
+            this.btnCheck.Location = new System.Drawing.Point(193, 168);
             this.btnCheck.Name = "btnCheck";
             this.btnCheck.Size = new System.Drawing.Size(75, 23);
             this.btnCheck.TabIndex = 2;
@@ -142,32 +142,32 @@
             this.removeToolStripMenuItem,
             this.cmsdel});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(153, 92);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(124, 70);
             // 
             // copyToolStripMenuItem
             // 
             this.copyToolStripMenuItem.Name = "copyToolStripMenuItem";
-            this.copyToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.copyToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
             this.copyToolStripMenuItem.Text = "Copy";
             this.copyToolStripMenuItem.Click += new System.EventHandler(this.btnCopy_Click);
             // 
             // removeToolStripMenuItem
             // 
             this.removeToolStripMenuItem.Name = "removeToolStripMenuItem";
-            this.removeToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.removeToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
             this.removeToolStripMenuItem.Text = "Remove";
             this.removeToolStripMenuItem.Click += new System.EventHandler(this.btnRemove_Click);
             // 
             // cmsdel
             // 
             this.cmsdel.Name = "cmsdel";
-            this.cmsdel.Size = new System.Drawing.Size(152, 22);
+            this.cmsdel.Size = new System.Drawing.Size(123, 22);
             this.cmsdel.Text = "Delete";
             this.cmsdel.Click += new System.EventHandler(this.cmsdel_Click);
             // 
             // btnRemove
             // 
-            this.btnRemove.Location = new System.Drawing.Point(193, 132);
+            this.btnRemove.Location = new System.Drawing.Point(193, 139);
             this.btnRemove.Name = "btnRemove";
             this.btnRemove.Size = new System.Drawing.Size(75, 23);
             this.btnRemove.TabIndex = 2;
@@ -177,7 +177,7 @@
             // 
             // btnCopy
             // 
-            this.btnCopy.Location = new System.Drawing.Point(193, 103);
+            this.btnCopy.Location = new System.Drawing.Point(193, 110);
             this.btnCopy.Name = "btnCopy";
             this.btnCopy.Size = new System.Drawing.Size(75, 23);
             this.btnCopy.TabIndex = 2;
@@ -215,7 +215,7 @@
             this.MaximizeBox = false;
             this.Name = "F_main";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "身份证号码生成工具";
+            this.Text = "IDCreator V1.01";
             this.Load += new System.EventHandler(this.frmidentity_Load);
             this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);

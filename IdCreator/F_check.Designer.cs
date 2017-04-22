@@ -93,7 +93,7 @@
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(180, 72);
+            this.btnAdd.Location = new System.Drawing.Point(255, 34);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(60, 23);
             this.btnAdd.TabIndex = 5;
@@ -105,7 +105,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(243, 177);
+            this.ClientSize = new System.Drawing.Size(320, 179);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.lbsex);
             this.Controls.Add(this.lbturn);
@@ -116,7 +116,7 @@
             this.MaximizeBox = false;
             this.Name = "F_check";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "查询";
+            this.Text = "Search";
             this.ResumeLayout(false);
             this.PerformLayout();
 
