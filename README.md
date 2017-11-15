@@ -1,7 +1,6 @@
 # IDCreator
 A app to create ID Card Number.
 #
-===========
 
 ### update log
 
